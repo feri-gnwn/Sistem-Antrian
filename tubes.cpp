@@ -1,3 +1,13 @@
+/************************************************************************************************
+* Kelompok 2                                                                                    *
+* Feri Gunawan 241402013                                                                        *
+* Chrisa Grant Banuarea 241402057                                                               *
+* Muhammad Faiz Pasaribu 241402118                                                              *
+* Tugas Proyek                                                                                  *
+* Program C++ untuk mensimulasikan antrian (queue) dengan waktu yang tepat dan random serta     *
+* realistis dengan fitur montir yang tersedia.                                                  *
+************************************************************************************************/
+
 #include <iostream>
 #include <ctime>
 #include <string>
